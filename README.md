@@ -1,4 +1,4 @@
-# Nome do meu projeto
+# CALCULADORA DE NOTA FINAL DA UFAL
 
 Rápida descrição do objetivo de fazer esse projeto
 
