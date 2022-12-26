@@ -1,6 +1,6 @@
 # CALCULADORA DE NOTA FINAL DA UFAL
 
-| :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/sarahcnog |
+| :placard: Vitrine.Dev |  |
 | -------------  | --- |
 | :sparkles: Nome        | **Calculadora: Nota Final da Universidade Federal de Alagoas - UFAL**
 | :label: Tecnologias | java, html, CSS
